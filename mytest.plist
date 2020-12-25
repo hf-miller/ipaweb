@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>https://acgn.hackfantasy.cn/ipa/Mytest.ipa</string>
+					<string>https://acgn.hackfantasy.cn/ipa/mytest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
